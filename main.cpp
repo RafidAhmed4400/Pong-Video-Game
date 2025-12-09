@@ -1,6 +1,6 @@
 /**
 Rafid Ahmed
- Pong Video Game
+Pong Video Game
 **/
 #define GL_SILENCE_DEPRECATION
 #define STB_IMAGE_IMPLEMENTATION
