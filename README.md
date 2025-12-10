@@ -1,4 +1,4 @@
-**Pong**
+# **Pong**
 
 A classic Pong-style game built in C++ using SDL2 and OpenGL/GLSL. This project features textured paddles and ball, real-time collision detection, and both manual and automatic paddle controls.
 
@@ -6,7 +6,7 @@ A classic Pong-style game built in C++ using SDL2 and OpenGL/GLSL. This project 
 <br>
 <br>
 
-**Features:**
+## **Features:**
 
    - Textured paddles, ball, and animated background
 
@@ -23,7 +23,7 @@ A classic Pong-style game built in C++ using SDL2 and OpenGL/GLSL. This project 
 <br>
 <br>
 
-**Technologies Used:**
+## **Technologies Used:**
 
    - C++
 
@@ -40,7 +40,7 @@ A classic Pong-style game built in C++ using SDL2 and OpenGL/GLSL. This project 
 <br>
 <br>
 
-**Controls:**
+## **Controls:**
 
   -  **Left Paddle (Player 1):**
       - W – Move Up
@@ -53,13 +53,13 @@ A classic Pong-style game built in C++ using SDL2 and OpenGL/GLSL. This project 
 <br>
 <br>
 
-**Extra Controls:**
+## **Extra Controls:**
    - T – Toggle automatic movement for the left paddle
 
 <br>
 <br>
 
-**Game Rules:**
+## **Game Rules:**
 
    - The ball bounces off the top and bottom walls.
 
@@ -70,7 +70,7 @@ A classic Pong-style game built in C++ using SDL2 and OpenGL/GLSL. This project 
 <br>
 <br>
 
-**Project Structure:**
+## **Project Structure:**
 
    - /project-root
    - main.cpp
@@ -87,13 +87,13 @@ A classic Pong-style game built in C++ using SDL2 and OpenGL/GLSL. This project 
 <br>
 <br>
 
-**How to Run:**
+## **How to Run:**
 
    - Prerequisites:
       - Install SDL2, OpenGL, and GLM.
 
-   Build (example using g++):
-      g++ main.cpp ShaderProgram.cpp -lSDL2 -lOpenGL -ldl -o pong
+### Build (example using g++):
+   - g++ main.cpp ShaderProgram.cpp -lSDL2 -lOpenGL -ldl -o pong
 
-**Run:**
-   ./pong
+### **Run:**
+   - ./pong
